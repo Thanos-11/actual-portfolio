@@ -30,3 +30,5 @@ Use of freeware was with a program like VSCode that was used for most of the dev
 
 Deployment :
 For the live link Github pages was used for the site to go live
+
+if you want to contribute to this project feel free to fork and get started
